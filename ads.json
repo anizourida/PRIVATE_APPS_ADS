@@ -1,9 +1,9 @@
 {
     "com.anizourida.whatsender": [
-        "config":{
+        "config" : {
             "default": "admob"
         }
-        "ads":[
+        "ads" : [
             "admob":{
                 "banner": [
                     "banner1","banner2",
