@@ -1,10 +1,10 @@
 {
-    "com.anizourida.whatsender": [
-        "config" : {
+    "com.anizourida.whatsender": {
+        "config": {
             "default": "admob"
-        }
-        "ads" : [
-            "admob":{
+        },
+        "ads": {
+            "admob": {
                 "banner": [
                     "banner1","banner2",
                 ],
@@ -15,6 +15,6 @@
             "facebook": {
 
             }
-        ]
-    ]
+        }
+    }
 }
