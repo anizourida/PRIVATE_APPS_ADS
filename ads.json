@@ -3,16 +3,16 @@
         config:{
             default: "admob"
         }
-        ads:{
-            admob:{
-                banner: {
+        "ads":{
+            "admob":{
+                "banner": {
                     "banner1","banner2",
                 },
-                Interstitial: {
+                "Interstitial": {
                     "ints1","ints2",
                 }
             },
-            facebook: {
+            "facebook": {
 
             }
         }
