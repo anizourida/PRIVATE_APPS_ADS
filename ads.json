@@ -6,10 +6,10 @@
         "ads": {
             "admob": {
                 "banner": [
-                    "banner1","banner2",
+                    "banner1","banner2"
                 ],
                 "Interstitial": [
-                    "ints1","ints2",
+                    "ints1","ints2"
                 ]
             },
             "facebook": {
