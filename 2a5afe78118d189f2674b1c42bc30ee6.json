@@ -1,14 +1,14 @@
-config: {
-  adproviders: {
-    default: "admob",
-    list: ["admob","huawei"]
+"config": {
+  "adproviders": {
+  "default": "admob",
+  "list": ["admob","huawei"]
   }
 }
-adProviders : {
-  admob: {
-    banner: ["test"],
-    interstetial: ["test"],
-    reward: false,
-    interstitalDelay: 60
+"adProviders" : {
+  "admob": {
+    "banner": ["test"],
+    "interstetial": ["test"],
+    "reward": false,
+    "interstitalDelay": 60
   }
 }
