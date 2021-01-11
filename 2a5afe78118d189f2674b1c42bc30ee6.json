@@ -1,9 +1,10 @@
+{
 "config": {
   "adproviders": {
   "default": "admob",
   "list": ["admob","huawei"]
   }
-}
+},
 "adProviders" : {
   "admob": {
     "banner": ["test"],
@@ -11,4 +12,5 @@
     "reward": false,
     "interstitalDelay": 60
   }
+}
 }
