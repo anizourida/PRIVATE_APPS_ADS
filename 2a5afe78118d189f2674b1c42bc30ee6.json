@@ -1,7 +1,5 @@
 {
-"config": {
-  "default" : "admob"
-},
+"default": "admob",
 "adProviders" : {
   "admob": {
     "banner": ["test"],
