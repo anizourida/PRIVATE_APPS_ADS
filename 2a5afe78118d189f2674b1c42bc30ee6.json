@@ -2,8 +2,8 @@
 "default": "admob",
 "adProviders" : {
   "admob": {
-    "banner": ["test"],
-    "interstetial": ["test"],
+    "banner": ["ca-app-pub-3940256099942544/6300978111","ca-app-pub-3940256099942544/6300978111","ca-app-pub-3940256099942544/6300978111"],
+    "interstetial": ["ca-app-pub-3940256099942544/1033173712","ca-app-pub-3940256099942544/8691691433"],
     "reward": false,
     "interstitalDelay": 60
   }
