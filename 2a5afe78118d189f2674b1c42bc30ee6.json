@@ -1,9 +1,6 @@
 {
 "config": {
-  "adproviders": {
   "default": "admob",
-  "list": ["admob","huawei"]
-  }
 },
 "adProviders" : {
   "admob": {
