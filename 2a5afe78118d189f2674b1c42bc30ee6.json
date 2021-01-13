@@ -10,6 +10,11 @@
   "startio": {
     "appid": "211498479",
     "interstitialDelay": 60.0
+  },
+  "huawei": {
+    "banner": "w0b1e5wsas",
+    "interstitial": "m4g1i437ek",
+    "interstitialDelay": 60.0
   }
 }
 }
