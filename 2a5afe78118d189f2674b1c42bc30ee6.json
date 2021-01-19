@@ -1,5 +1,5 @@
 {
-"default": "huawei",
+"default": "admob",
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-8896905279070514/7571589833"],
