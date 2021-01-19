@@ -1,9 +1,9 @@
 {
-"default": "huawei",
+"default": "admob",
 "adProviders" : {
   "admob": {
-    "banner": ["ca-app-pub-3940256099942544/6300978111","ca-app-pub-3940256099942544/6300978111","ca-app-pub-3940256099942544/6300978111"],
-    "interstitial": ["ca-app-pub-3940256099942544/1033173712","ca-app-pub-3940256099942544/8691691433"],
+    "banner": ["ca-app-pub-8896905279070514/7571589833"],
+    "interstitial": ["ca-app-pub-8896905279070514/4689457381"],
     "reward": [""],
     "interstitialDelay": 60.0
   },
