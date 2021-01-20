@@ -1,5 +1,6 @@
 {
-"default": "admob",
+"appname": "brstcncr"
+"default": "startio",
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-8896905279070514/7571589833"],
