@@ -3,7 +3,7 @@
 "default": "admob",
 "adProviders" : {
   "admob": {
-    "banner": ["ca-app-pub-8896905279070514/3233190893"],
+    "banner": ["ca-app-pub-8168036533643336/2850047511"],
     "interstitial": ["ca-app-pub-8896905279070514/4689457381"],
     "reward": [""],
     "interstitialDelay": 60.0
