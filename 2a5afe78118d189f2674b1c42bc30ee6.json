@@ -3,10 +3,10 @@
 "default": "startio",
 "adProviders" : {
   "admob": {
-    "banner": ["ca-app-pub-8896905279070514/7571589833"],
-    "interstitial": ["ca-app-pub-8896905279070514/4689457381"],
+    "banner": ["ca-app-pub-8168036533643336/5652827916"],
+    "interstitial": ["ca-app-pub-8168036533643336/4249258660"],
     "reward": [""],
-    "interstitialDelay": 60.0
+    "interstitialDelay": 30.0
   },
   "startio": {
     "appid": "211498479",
