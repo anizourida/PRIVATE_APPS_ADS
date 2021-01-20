@@ -1,5 +1,5 @@
 {
-"appname": "brstcncr"
+"appname": "brstcncr",
 "default": "startio",
 "adProviders" : {
   "admob": {
