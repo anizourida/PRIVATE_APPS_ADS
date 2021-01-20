@@ -1,8 +1,9 @@
 {
-"default": "admob",
+"appname": "sndr",
+"default": "startio",
 "adProviders" : {
   "admob": {
-    "banner": ["ca-app-pub-8896905279070514/7571589833"],
+    "banner": ["ca-app-pub-3940256099942544/6300978111"],
     "interstitial": ["ca-app-pub-8896905279070514/4689457381"],
     "reward": [""],
     "interstitialDelay": 60.0
