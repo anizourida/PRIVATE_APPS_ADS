@@ -4,7 +4,7 @@
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-8168036533643336/5652827916","ca-app-pub-8168036533643336/5652827916"],
-    "interstitial": [],
+    "interstitial": [""],
     "reward": [""],
     "interstitialDelay": 30.0
   },
