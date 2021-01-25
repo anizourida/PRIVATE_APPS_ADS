@@ -1,6 +1,6 @@
 {
 "appname": "ffdiams",
-"default": "startio",
+"default": "huawei",
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-3940256099942544/6300978111"],
@@ -15,7 +15,7 @@
   "huawei": {
     "banner": "u83i1e7ofu",
     "interstitial": "t4a5m2zmt3",
-    "interstitialDelay": 60.0
+    "interstitialDelay": 20.0
   }
 }
 }
