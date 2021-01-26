@@ -1,10 +1,10 @@
 {
 "appname": "brstcncr",
-"default": "startio",
+"default": "admob",
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-8168036533643336/5652827916","ca-app-pub-8168036533643336/5652827916"],
-    "interstitial": ["ca-app-pub-xxxxxx/xxxxx"],
+    "interstitial": ["x"],
     "reward": [""],
     "interstitialDelay": 30.0
   },
