@@ -1,6 +1,6 @@
 {
 "appname": "sndr",
-"default": "admob",
+"default": "startio",
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-8168036533643336/2850047511"],
