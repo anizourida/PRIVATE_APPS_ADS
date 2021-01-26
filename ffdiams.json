@@ -1,10 +1,10 @@
 {
 "appname": "ffdiams",
-"default": "huawei",
+"default": "admob",
 "adProviders" : {
   "admob": {
-    "banner": ["ca-app-pub-3940256099942544/6300978111"],
-    "interstitial": ["ca-app-pub-3940256099942544/1033173712"],
+    "banner": ["ca-app-pub-8168036533643336/4414673951"],
+    "interstitial": ["ca-app-pub-8168036533643336/4550211802"],
     "reward": [""],
     "interstitialDelay": 1.0
   },
