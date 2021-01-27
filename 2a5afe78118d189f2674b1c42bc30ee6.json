@@ -1,6 +1,6 @@
 {
 "appname": "brstcncr",
-"default": "startio",
+"default": "huawei",
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-8168036533643336/5652827916","ca-app-pub-8168036533643336/5652827916"],
@@ -15,7 +15,7 @@
   "huawei": {
     "banner": "w0b1e5wsas",
     "interstitial": "m4g1i437ek",
-    "interstitialDelay": 60.0
+    "interstitialDelay": 20.0
   }
 }
 }
