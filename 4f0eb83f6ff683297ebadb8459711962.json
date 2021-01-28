@@ -1,6 +1,6 @@
 {
 "appname": "sndr",
-"default": "startio",
+"default": "huawei",
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-8168036533643336/2850047511"],
