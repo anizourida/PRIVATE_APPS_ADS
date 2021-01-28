@@ -1,6 +1,6 @@
 {
 "appname": "ffdiams",
-"default": "admob",
+"default": "huawei",
 "adProviders" : {
   "admob": {
     "banner": ["ca-app-pub-8168036533643336/4414673951"],
