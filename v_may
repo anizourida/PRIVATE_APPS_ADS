@@ -2,7 +2,8 @@
   "AdmobAdsController" : {
       "AdmobAdsId":"pub-3940256099942544",
       "OpenAdmobAds":"ca-app-pub-3940256099942544/3419835294",
-      "BannerAdmobAds":"ca-app-pub-3179648794235152/8181811305",
+      "BannerAdmobAds-reda":"ca-app-pub-3179648794235152/8181811305",
+      "BannerAdmobAds":"ca-app-pub-9734932315385370/6263947175"
       "NativeAdmobAds":"ca-app-pub-3179648794235152/7028685776",
       "InterstitialAdmobAds":"ca-app-pub-3940256099942544/1033173712",
       "InterSplashAdmobAds":"ca-app-pub-3940256099942544/1033173712"
