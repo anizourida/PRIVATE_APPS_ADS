@@ -2,9 +2,9 @@
   "AdmobAdsController" : {
       "AdmobAdsId":"pub-3940256099942544",
       "OpenAdmobAds":"ca-app-pub-3940256099942544/3419835294",
-      "BannerAdmobAds-rida":"ca-app-pub-2300454805635079/4081560405",
+      "BannerAdmobAds":"ca-app-pub-2300454805635079/4081560405",
       "BannerAdmobAds-simo":"ca-app-pub-9734932315385370/6263947175",
-      "BannerAdmobAds":"ca-app-pub-8168036533643336/5472165758",
+      "BannerAdmobAds-saro":"ca-app-pub-8168036533643336/5472165758",
       "NativeAdmobAds":"ca-app-pub-2300454805635079/1305624769",
       "InterstitialAdmobAds":"ca-app-pub-3940256099942544/1033173712",
       "InterSplashAdmobAds":"ca-app-pub-3940256099942544/1033173712"
