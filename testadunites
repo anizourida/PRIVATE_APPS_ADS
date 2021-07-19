@@ -3,7 +3,7 @@
       "AdmobAdsId":"pub-3940256099942544",
       "OpenAdmobAds":"ca-app-pub-3940256099942544/3419835294",
       "BannerAdmobAds":"ca-app-pub-3940256099942544/6300978111",
-      "BannerAdmobAds-Adaptive":"ca-app-pub-3940256099942544/6300978111",
+      "AdaptiveBannerAdmobAds":"ca-app-pub-3940256099942544/6300978111",
       "NativeAdmobAds":"ca-app-pub-3940256099942544/2247696110",
       "InterstitialAdmobAds":"ca-app-pub-3940256099942544/1033173712",
       "InterSplashAdmobAds":"ca-app-pub-3940256099942544/1033173712"
