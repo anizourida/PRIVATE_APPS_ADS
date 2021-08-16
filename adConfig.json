@@ -1,5 +1,6 @@
 {
   "AdmobDeployRate" : "99",
   "_AdmobDeployRate" : "0~100",
-  "QuizzesLink" : "https://qoloub.com"
+  "QuizzesLink" : "https://qoloub.com",
+  "InterstitialInterval" : "60"
 }
