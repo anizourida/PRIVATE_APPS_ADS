@@ -6,5 +6,8 @@
   "InterstitialInterval" : "120",
   "MoreApps" : "https://viral782.com/list/440412",
   "adReporting": false,
-  "AdmobNative": "ca-app-pub-6397888333687260/9104926372"
+  "AdmobNative": "ca-app-pub-6397888333687260/9104926372",
+  "QuizzesIcon":"",
+  "GamesIcon":"",
+  "BlackListCountries": ["IN","BN"]
 }
