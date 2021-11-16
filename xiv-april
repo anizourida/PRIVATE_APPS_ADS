@@ -1,12 +1,12 @@
 {
-  "AdmobAdsController" : {      
-      "BannerAdmobAds":"ca-app-pub-4546546708492620/3205444428",
-      "InterstitialAdmobAds":"ca-app-pub-4546546708492620/1571253962",
-      "##":"##",
-      "AdmobAdsId":"pub-3940256099942544",
-      "OpenAdmobAds":"ca-app-pub-3940256099942544/3419835294",
-      "BannerAdmobAds-edge":"ca-app-pub-3179648794235152/8968828107",
-      "NativeAdmobAds":"ca-app-pub-3940256099942544/2247696110",
-      "InterSplashAdmobAds":"ca-app-pub-3940256099942544/1033173712"
-  }
+"AdmobAdsController": {
+"BannerAdmobAds": "ca-app-pub-7404597286850535/8454069543",
+"InterstitialAdmobAds": "ca-app-pub-7404597286850535/7687782782",
+"##": "##",
+"AdmobAdsId": "pub-3940256099942544",
+"OpenAdmobAds": "ca-app-pub-3940256099942544/3419835294",
+"BannerAdmobAds-edge": "ca-app-pub-3179648794235152/8968828107",
+"NativeAdmobAds": "ca-app-pub-3940256099942544/2247696110",
+"InterSplashAdmobAds": "ca-app-pub-3940256099942544/1033173712"
+}
 }
