@@ -12,5 +12,5 @@
   "QuizzesIcon":"",
   "GamesIcon":"",
   "VideosLink":"https://vidsaveapi.site",
-  "BlackListCountries": ["in"]
+  "BlackListCountries": ["in","bd","pk","pak","np"]
 }
