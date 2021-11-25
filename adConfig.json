@@ -1,6 +1,5 @@
 {
-  "AdmobDeployRate" : "40",
-  "_AdmobDeployRate" : "0~100",
+  "AdmobDeployRate" : "60",
   "QuizzesLink" : "https://3530.play.quizzop.com/",
   "GamesLink" : "https://www.gamezop.com/?id=3529",
   "InterstitialInterval" : "120",
