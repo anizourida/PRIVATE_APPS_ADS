@@ -1,11 +1,11 @@
 {
-  "AdmobDeployRate" : "30",
+  "AdmobDeployRate" : "100",
   "QuizzesLink" : "https://3530.play.quizzop.com/",
   "GamesLink" : "https://www.gamezop.com/?id=3529",
   "InterstitialInterval" : "120",
   "MoreApps" : "https://play.google.com/store/apps/dev?id=4895680340727782387",
   "adReporting": false,
-  "AdmobNative": "ca-app-pub-3537468475382452/7088344535",
+  "AdmobNative": "ca-app-pub-3537468475382452/7106193191",
   "AdmobBanner": "ca-app-pub-3537468475382452/3743995891",
   "AdmobInterstitial": "ca-app-pub-3537468475382452/5430769623",
   "QuizzesIcon":"",
