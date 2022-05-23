@@ -1,5 +1,5 @@
 {
-  "AdmobDeployRate" : "10",
+  "AdmobDeployRate" : "100",
   "AdmobSheild" : "01",
   "InterstitialInterval" : "40",
   "QuizzesLink" : "https://3530.play.quizzop.com/",
@@ -11,7 +11,7 @@
   "R_AdmobBanner": "ca-app-pub-6397888333687260/5942190265",
   "R_AdmobInterstitial": "ca-app-pub-6397888333687260/6276328225",
   "co_es":true,
-  "s_AdmobNative": "ca-app-pub-8168036533643336/4325892318",
+  "AdmobNative": "ca-app-pub-8168036533643336/4325892318",
   "AdmobInterstitial": "ca-app-pub-8168036533643336/3465070932",
   "QuizzesIcon":"",
   "GamesIcon":"",
@@ -23,5 +23,5 @@
   "co_be":true,
   "AdmobBanner": "ca-app-pub-4206736500797472/1965511106",
   "mhs_ac":true,
-  "AdmobNative":"ca-app-pub-3537468475382452/7106193191"
+  "mhs_ac_AdmobNative":"ca-app-pub-3537468475382452/7106193191"
 }
