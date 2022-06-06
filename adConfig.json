@@ -22,8 +22,10 @@
   "w_AdmobNative": "ca-app-pub-5581207058378797/5802714142",
   "co_be":true,
   "AdmobBanner": "ca-app-pub-4206736500797472/1965511106",
-  "AdmobNative": "ca-app-pub-4206736500797472/9056470977",
+  "be_AdmobNative": "ca-app-pub-4206736500797472/9056470977",
   "be_AdmobInterstitial": "ca-app-pub-4206736500797472/3995715985",
   "mhs_ac":true,
-  "mhs_ac_AdmobNative":"ca-app-pub-3537468475382452/7106193191"
+  "mhs_ac_AdmobNative":"ca-app-pub-3537468475382452/7106193191",
+  "approved":"1",
+  "AdmobNative":"ca-app-pub-2400892012627088/1470792284"
 }
