@@ -12,7 +12,7 @@
   "AdmobSheild" : "0",
   "InterstitialInterval" : "60",
   "adReporting" : false,
-  "AdmobNative" : "ca-app-pub-6397888333687260/3903130539",
-  "AdmobInterstetial" : "",
-  "AdmobBanner" : "",
+  "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
+  "AdmobInterstetial" : "ca-app-pub-3940256099942544/1033173712",
+  "AdmobBanner" : "ca-app-pub-3940256099942544/6300978111",
 }
