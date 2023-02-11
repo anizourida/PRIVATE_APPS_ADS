@@ -1,0 +1,18 @@
+{
+  "AppCode" : "sf4rgs7ysz8uah1",
+  "QuizzesLink" : "https://3530.play.quizzop.com/",
+  "GamesLink" : "https://iogems.com",
+  "MoreApps" : "https://play.google.com/store/apps/dev?id=4895680340727782387",
+  "Update" : "",
+  "QuizzesIcon" : "",
+  "GamesIcon": "",
+  "VideosLink": "https://litegifs.com",
+  "BlackListCountries" : [],
+  "AdmobDeployRate" : "100",
+  "AdmobSheild" : "0",
+  "InterstitialInterval" : "60",
+  "adReporting" : false,
+  "AdmobNative" : "ca-app-pub-6397888333687260/3903130539",
+  "AdmobInterstetial" : "",
+  "AdmobBanner" : "",
+}
