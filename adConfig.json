@@ -1,6 +1,6 @@
 {
-  "AdmobDeployRate" : "40",
-  "AdmobSheild" : "70",
+  "AdmobDeployRate" : "30",
+  "AdmobSheild" : "50",
   "InterstitialInterval" : "180",
   "QuizzesLink" : "https://3530.play.quizzop.com/",
   "GamesLink" : "https://iogems.com",
