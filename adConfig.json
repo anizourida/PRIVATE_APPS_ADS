@@ -7,7 +7,7 @@
   "_GamesLink" : "https://www.gamezop.com/?id=3529",
   "MoreApps" : "https://play.google.com/store/apps/dev?id=4895680340727782387",
   "adReporting": false,
-  "R_AdmobNative": "ca-app-pub-6397888333687260/3903130539",
+  "AdmobNative": "ca-app-pub-6397888333687260/3903130539",
   "R_AdmobBanner": "ca-app-pub-6397888333687260/5942190265",
   "R_AdmobInterstitial": "ca-app-pub-6397888333687260/6276328225",
   "co_es":true,
@@ -27,7 +27,7 @@
   "be_AdmobNative": "ca-app-pub-4206736500797472/9056470977",
   "AdmobInterstitial": "ca-app-pub-4206736500797472/3995715985",
   "mhs_ac":true,
-  "AdmobNative":"ca-app-pub-3537468475382452/7106193191",
+  "mhs_AdmobNative":"ca-app-pub-3537468475382452/7106193191",
   "approved":"1",
   "ma_AdmobNative":"ca-app-pub-2400892012627088/1470792284",
   "ma_AdmobBanner":"ca-app-pub-2400892012627088/3814449243"
