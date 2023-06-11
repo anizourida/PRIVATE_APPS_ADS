@@ -20,7 +20,7 @@
   "QuizzesIcon":"",
   "GamesIcon":"",
   "VideosLink":"https://vidsaveapi.site/links",
-  "BlackListCountries": [],
+  "BlackListCountries": ["anr"],
   "co_ws":true,
   "w_AdmobNative": "ca-app-pub-5581207058378797/5802714142",
   "w_AdmobBanner": "ca-app-pub-5581207058378797/1187698209",
