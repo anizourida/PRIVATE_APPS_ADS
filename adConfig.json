@@ -11,8 +11,10 @@
   "GamesIcon":"",
   "VideosLink": "https://slickshares.com/tree?u=Oe",
   "AdmobMarocEuro":null,
-  "AdmobNative": "ca-app-pub-6397888333687260/4008312286",
+  "AdmobNative-AdmobMarocEuro": "ca-app-pub-6397888333687260/4008312286",
   "AdmobBanner": "ca-app-pub-6397888333687260/3206983818",
   "AdmobInterstitial": "ca-app-pub-6397888333687260/6873738412",
+  "AdmobAdsense": null,
+  "AdmobNative": "ca-app-pub-2400892012627088/1470792284",
   "BlackListCountries": ["anr"]
 }
