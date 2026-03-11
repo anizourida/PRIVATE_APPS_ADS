@@ -16,5 +16,6 @@
   "AdmobInterstitial": "ca-app-pub-6397888333687260/6873738412",
   "AdmobAdsense": null,
   "AdmobNative": "ca-app-pub-3537468475382452/7106193191",
-  "BlackListCountries": ["anr"]
+  "BlackListCountries": ["anr"],
+  "ads": false,
 }
